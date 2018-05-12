@@ -1,0 +1,30 @@
+_repo: A-New-Orchard-And-Garden--13-and-generally-for-the-whole-kingdome-of-England_29058
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Harward, Simon, active 1572-1614
+    gutenberg_agent_id: '33667'
+    url: http://www.gutenberg.org/2009/agents/33667
+  - agent_name: Lawson, William, active 1618
+    gutenberg_agent_id: '33666'
+    url: http://www.gutenberg.org/2009/agents/33666
+description: ''
+gutenberg_issued: '2009-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fruit-culture -- Great Britain'
+- !lcc 'SB'
+- !lcsh 'Gardening -- Early works to 1800'
+title: "A New Orchard And Garden\r\nor, The best way for planting, grafting, and to\
+  \ make any ground good, for a rich Orchard: Particularly in the North and generally\
+  \ for the whole kingdome of England"
+url: http://www.gutenberg.org/ebooks/29058
