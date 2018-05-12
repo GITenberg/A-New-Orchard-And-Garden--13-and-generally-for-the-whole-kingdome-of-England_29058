@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33666'
     url: http://www.gutenberg.org/2009/agents/33666
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29058#A-New-Orchard-And-Garden--13-and-generally-for-the-whole-kingdome-of-England
 gutenberg_issued: '2009-06-06'
 gutenberg_type: Text
 identifiers:
